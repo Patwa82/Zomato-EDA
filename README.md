@@ -1,2 +1,3 @@
 # Zomato-EDA
 Feature Engineering and EDA with zomato Datasets
+Exploratory Data Analysis (EDA) and feature engineering with the Zomato dataset from Kaggle involve scrutinizing the dataset's attributes, distributions, and correlations to gain insights into restaurant characteristics and customer preferences. EDA techniques like data visualization and statistical summaries unveil patterns and trends, guiding feature engineering strategies. Feature engineering aims to extract meaningful information, such as cuisine types, average ratings, and geographic data, to enhance the predictive capabilities of machine learning models for tasks like restaurant recommendation and user rating prediction.
